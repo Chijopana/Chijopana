@@ -73,8 +73,8 @@ Soy un desarrollador web junior con pasión por crear soluciones útiles y apren
 - 📊 [Stock Price Checker - freeCodeCamp](https://github.com/Chijopana/boilerplate-project-stockchecker)
 - 🎮 [Batalla Naval (Battleship) - The Odin Project](https://github.com/Chijopana/battleship)
 - 🎨 [Landing Page - The Odin Project](https://github.com/Chijopana/landing-page)
-- 🎮 [Piedra, Papel o Tijera - The Odin Project](https://github.com/Chijopana/rock-paper-scissors)
-- 🎨 [Etch-a-Sketch Grid - Proyecto con Flexbox](https://github.com/Chijopana/etch-a-sketch)
+- ✊ [Piedra, Papel o Tijera - The Odin Project](https://github.com/Chijopana/rock-paper-scissors)
+- 🧱 [Etch-a-Sketch Grid - Proyecto con Flexbox](https://github.com/Chijopana/etch-a-sketch)
 - 🍝 [Recetario web simple - Odin Recipes](https://github.com/Chijopana/odin-recipes)
 
 ---
