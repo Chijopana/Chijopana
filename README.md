@@ -70,7 +70,7 @@ Soy un desarrollador web junior con pasión por crear soluciones útiles y apren
 
 ## 🧑‍💻 Algunos proyectos destacados
 
-- 📊 [Stock Price Checker - freeCodeCamp](https://github.com/Chijopana/stock-price-checker)
+- 📊 [Stock Price Checker - freeCodeCamp](https://github.com/Chijopana/boilerplate-project-stockchecker)
 - 🎮 [Batalla Naval (Battleship) - The Odin Project](https://github.com/Chijopana/battleship)
 - 🎨 [Landing Page - The Odin Project](https://github.com/Chijopana/landing-page)
 
