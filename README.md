@@ -54,9 +54,9 @@ Soy un desarrollador web junior con pasión por crear soluciones útiles y apren
 
 ## 📫 Cómo contactarme
 
-- 📧 Email: tuemail@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🌐 Portfolio: [tuportafolio.com](https://tuportafolio.com) *(si tienes uno)*
+- 📧 Email: jose7blondel@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/jose-manuel-blondel-moya/](https://www.linkedin.com/in/jose-manuel-blondel-moya/)  
+- 🌐 Portfolio: [cv-phi-red.vercel.app/](https://cv-phi-red.vercel.app/) *(en proceso)*
 
 ---
 
