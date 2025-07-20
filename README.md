@@ -56,7 +56,7 @@ Soy un desarrollador web junior con pasión por crear soluciones útiles y apren
 
 - 📧 Email: jose7blondel@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/jose-manuel-blondel-moya/](https://www.linkedin.com/in/jose-manuel-blondel-moya/)  
-- 🌐 Portfolio: [joseblondel.dev) *(en proceso)*
+- 🌐 Portfolio: [joseblondel.dev](https://www.joseblondel.dev) *(en proceso)*
 
 ---
 
